@@ -3,7 +3,7 @@ This course explores the role of Artificial Intelligence (AI) and Big Data in op
 
 *Instructor: Monica-Juliana Perez*
 
-- email: <sergioa.mora@javeriana.edu.co>
+- email: <Monica.PerezMorales@uphf.fr>
 
 *Learning Objectives:*
 By the end of the course, students will be able to:
